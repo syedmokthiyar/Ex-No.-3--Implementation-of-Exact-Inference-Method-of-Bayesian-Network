@@ -46,5 +46,7 @@ Hence the implementation of Exact Inference Method of Bayesian Network Is implem
 ![A A I EXP3](https://github.com/syedmokthiyar/Ex-No.-3--Implementation-of-Exact-Inference-Method-of-Bayesian-Network/assets/118787294/76d954a9-fffd-4894-8c59-7293cbd1e78a)
 
 ## Result :  
+Hence the implementation of Exact Inference Method of Bayesian Network Is implemented Successfully.
+
 
 
